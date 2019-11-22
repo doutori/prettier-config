@@ -1,0 +1,17 @@
+{
+  "name": "@doutori/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".prettierrc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doutori/prettier-config.git"
+  },
+  "author": "doutori <sasa.hiro0125@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doutori/prettier-config/issues"
+  },
+  "homepage": "https://github.com/doutori/prettier-config#readme",
+  "prettier": "@doutori/prettier-config"
+}
