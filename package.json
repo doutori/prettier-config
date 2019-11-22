@@ -2,7 +2,7 @@
   "name": "@doutori/prettier-config",
   "version": "1.0.0",
   "description": "",
-  "main": ".prettierrc",
+  "main": ".prettierrc.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/doutori/prettier-config.git"
